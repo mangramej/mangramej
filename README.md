@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Jemar Sabocido 👋</h1>
-<h3 align="center">A undergraduate student of Information Technology in Philippines</h3>
 
 
 
